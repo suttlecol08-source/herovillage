@@ -1,0 +1,1 @@
+{"required": true,"package": "com.yourname.herovillage.mixin","compatibilityLevel": "JAVA_21","mixins": [],"client": [],"injectors": {"defaultRequire": 1}}
