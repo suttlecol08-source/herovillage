@@ -1,0 +1,19 @@
+{"schemaVersion": 1,
+  "id": "herovillage",
+  "version": "${version}",
+  "name": "Invisible Hero of the Village",
+  "description": "Always gives you Hero of the Village effect with invisible particles",
+  "authors": ["YourName"],
+  "contact": {
+    "homepage": "https://github.com/yourname/herovillage"
+  },
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.yourname.herovillage.HeroVillageMod"
+    ]
+  },
+  "mixins": [
+    "herovillage.mixins.json"
+  ]}
